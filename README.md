@@ -12,9 +12,9 @@
 
 - [ ] 4203 Instanzvariablen 1
 - [ ] 4204 Instanzvariablen 2
-- [ ] ...
+- [ ] Banksystem als übung für die vorherigen Aufträge
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich die Instanzvariablen kennengelernt. Sie sind recht einfach zu merken. Ich habe geübt, indem ich ein kleines Banksystem programmierte. Ich konnte einige Eigenschaften und Felder verwenden. (28 Wörter)
 
 ## 30.4.2024
 
