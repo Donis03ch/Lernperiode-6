@@ -5,14 +5,14 @@
 ## Grob-Planung
 
 1. Meine Noten im letzten Semester waren gut, ich muss mir wegen Modul 319 noch C# mehr beibringen.
-2. Was hatten Sie sich am Ende von LP5 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Module 320
+2. Ich kann micht bei Schwierigkeiten an der Lehrperson wenden.
+3. Modul 320 und ein ... Projekt
 
 ## 23.4.2024
 
-- [ ] Erstes Arbeitspaket
+- [ ] 4203 Instanzvariablen 1
+- [ ] 4204 Instanzvariablen 2
 - [ ] ...
-- [ ] Viertes AP
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
