@@ -1,4 +1,4 @@
-#Lern-Periode 6
+# Lern-Periode 6
 
 16.8 bis 20.9.2024
 
