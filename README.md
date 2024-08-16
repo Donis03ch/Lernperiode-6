@@ -1,12 +1,12 @@
 #Lern-Periode 6
 
-16.8 bis ..2024
+16.8 bis 20.9.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+1. Meine Noten im letzten Semester waren gut, ich muss mir wegen Modul 319 noch C# mehr beibringen.
 2. Was hatten Sie sich am Ende von LP5 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt für diese LP6?
+3. Module 320
 
 ## 23.4.2024
 
