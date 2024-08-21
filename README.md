@@ -8,7 +8,7 @@
 2. Ich kann micht bei Schwierigkeiten an der Lehrperson wenden.
 3. Modul 320 und ein ... Projekt
 
-## 23.4.2024
+## 16.8.2024
 
 - [ ] 4203 Instanzvariablen 1
 - [ ] 4204 Instanzvariablen 2
@@ -16,11 +16,12 @@
 
 Heute habe ich die Instanzvariablen kennengelernt. Sie sind recht einfach zu merken. Ich habe geübt, indem ich ein kleines Banksystem programmierte. Ich konnte einige Eigenschaften und Felder verwenden. (28 Wörter)
 
-## 30.4.2024
+## 23.8.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] 4206 Methoden
+- [ ] 4207 Methodenüberladung
+- [ ] Bibliothekssystem als Übung für die vorherigen Aufträge
+- [ ] ==
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
