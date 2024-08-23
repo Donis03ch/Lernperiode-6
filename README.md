@@ -10,16 +10,16 @@
 
 ## 16.8.2024
 
-- [ ] 4203 Instanzvariablen 1
-- [ ] 4204 Instanzvariablen 2
+- [x] 4203 Instanzvariablen 1
+- [x] 4204 Instanzvariablen 2
 - [ ] Banksystem als übung für die vorherigen Aufträge
 
 Heute habe ich die Instanzvariablen kennengelernt. Sie sind recht einfach zu merken. Ich habe geübt, indem ich ein kleines Banksystem programmierte. Ich konnte einige Eigenschaften und Felder verwenden. (28 Wörter)
 
 ## 23.8.2024
 
-- [ ] 4206 Methoden
-- [ ] 4207 Methodenüberladung
+- [x] 4206 Methoden
+- [x] 4207 Methodenüberladung
 - [ ] Bibliothekssystem als Übung für die vorherigen Aufträge
 - [ ] ==
 
