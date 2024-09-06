@@ -35,3 +35,12 @@ Heute habe ich die Aufträge für das Modul fertig bearbeitet. Ich habe von der 
 
 Heute habe ich den Promillerechner implementiert. Ich konnte sehr viel mit Klassen und Methoden arbeiten. Ich habe einen Code vom Rechenr hochgeladen. (22 Wörter)
 
+
+## 06.9.2024
+
+- [x] 4210 
+- [ ] 4211 
+- [ ] Spieljourney als Übung für die vorherigen Aufträge
+- [ ] ==
+
+Heute habe ich den Auftrag 4210 bearbeitet. Dabei hatte ich nicht viel mühe. Ich habe ein kleine RPG Projekt mit AI als Storyteller Code geschrieben. (25 Wörter)
