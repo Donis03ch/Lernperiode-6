@@ -59,6 +59,6 @@ Heute habe ich den Auftrag 4211 bearbeitet. Ich hatte keine Schwierigkeiten beim
 - [ ] 4214
 - [ ] ==
 - [ ] ==
-- [ ] ==
+- [ ] 322_LB Aufgabe 6
 
 Heute habe ich... (x Wörter)
