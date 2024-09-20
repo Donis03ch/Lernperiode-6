@@ -56,9 +56,9 @@ Heute habe ich den Auftrag 4211 bearbeitet. Ich hatte keine Schwierigkeiten beim
 
 ## 20.9.2024
 
-- [ ] 4214
-- [ ] ==
+- [x] 4214
+- [x] ==
 - [ ] ==
 - [ ] 322_LB Aufgabe 6
 
-Heute habe ich... (x Wörter)
+Heute habe ich an Auftrag 4214 gearbeitet. Ich konnte das game Left-Center-Right an einem fast fertigen Stand bringen. (18 Wörter)
