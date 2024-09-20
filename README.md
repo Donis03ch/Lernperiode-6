@@ -54,3 +54,11 @@ Heute habe ich den Auftrag 4210 bearbeitet. Dabei hatte ich nicht viel mühe. Ic
 
 Heute habe ich den Auftrag 4211 bearbeitet. Ich hatte keine Schwierigkeiten beim Auftrag. Die Spieljourney wurde weiter geführt. Am anfang hat ich noch keine Idee wie ich die AI rein implementiere. Dazu habe ich ein Video angesehen. (37 Wörter)
 
+## 20.9.2024
+
+- [ ] 4214
+- [ ] ==
+- [ ] ==
+- [ ] ==
+
+Heute habe ich... (x Wörter)
